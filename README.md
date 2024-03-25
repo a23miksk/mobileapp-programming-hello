@@ -12,7 +12,6 @@ För att göra klart uppgiften öppnades filen strings.xml och värdet på strin
 <resources>
     <string name="app_name">Cool app</string>
 </resources>
-
 ```
 
 ### Bild
