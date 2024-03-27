@@ -14,8 +14,7 @@ Tillslut commitade och pushades projektet.
 <resources>
     <string name="app_name">Cool app</string>
 </resources>
-
 ```
 
 ### Bild
-![Screenshot.png](Screenshot.png)
+![Screenshot_of_app.png](Screenshot_of_app.png)
